@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    column-gap: 5px;
+}
+
+.ordersButton {
+    padding: 5px;
+    background-color: forestgreen;
+    cursor: pointer;
+}
+
+.cartButton{
+    background-color: grey;
+    padding: 5px;
+    cursor: pointer;
+}

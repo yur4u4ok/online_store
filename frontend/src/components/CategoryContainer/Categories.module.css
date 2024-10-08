@@ -1,0 +1,15 @@
+.buttonAll {
+    background-color: red;
+    cursor: pointer;
+    padding: 5px;
+}
+
+.categoriesMainDiv {
+    display: flex;
+    column-gap: 13px;
+}
+
+.categoriesDiv {
+    display: flex;
+    column-gap: 5px;
+}
